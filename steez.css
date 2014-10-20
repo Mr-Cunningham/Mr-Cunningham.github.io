@@ -1,0 +1,25 @@
+body {
+	width:90%; /* Works pretty good for responsive */
+}
+
+
+h1 {
+	font-family: Georgia;
+	font-color:#FFC531;
+}
+
+h2 {
+	font-size:20pt;
+}
+
+p {
+	font-family: Helvetica;
+	color:#33C52f;
+}
+
+
+.intro {
+
+	font-size: 14pt;
+	font-family:Tacoma;
+}
