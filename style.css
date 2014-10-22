@@ -1,0 +1,48 @@
+html {
+
+	background-color: #FFFCCC;
+	padding:20px;
+}
+
+body {
+	padding: auto 0px;
+	width:90%;
+}
+
+h1 {
+	color: #333ff1;
+	font-family: helvetica;
+}
+
+
+p, a {
+	
+	font-family:Arial, Helvetica, san-serif;
+}
+
+a {text-decoration: none;
+
+}
+	a:hover {
+		color:##3A4F68;
+	}
+
+li {
+	/*float:left;*/
+	display: inline;
+	margin:0px 10px 0px 0px;
+}
+
+/* ID */
+#two {
+	color: #fe3cd1;
+	width:45%;
+}
+
+
+/* Class*/
+
+.wtf {
+	font-weight: 400;
+	letter-spacing: -5px;
+}
